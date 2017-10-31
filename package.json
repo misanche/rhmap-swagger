@@ -1,6 +1,6 @@
 {
   "name": "rhmap-swagger",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "rhmap module that generates swagger spec with swagger ui",
   "main": "index.js",
   "scripts": {
