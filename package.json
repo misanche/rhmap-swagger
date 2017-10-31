@@ -1,0 +1,36 @@
+{
+  "name": "rhmap-swagger",
+  "version": "0.0.1",
+  "description": "rhmap module that generates swagger spec with swagger ui",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/misanche/rhmap-swagger.git"
+  },
+  "keywords": [
+    "swagger",
+    "rhmap",
+    "node",
+    "api",
+    "OpenAPI"
+  ],
+  "author": "Mikel Sanchez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/misanche/rhmap-swagger/issues"
+  },
+  "homepage": "https://github.com/misanche/rhmap-swagger#readme",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2",
+    "swagger-jsdoc": "^1.9.7",
+    "swagger-ui-express": "^2.0.8",
+    "uuid": "^3.1.0",
+    "xml-js": "^1.5.1"
+  }
+}
